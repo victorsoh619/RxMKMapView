@@ -62,7 +62,7 @@ DESC
 
   s.source_files        = 'Sources/**/*.swift'
 
-  s.dependency 'RxCocoa', '~> 5.0.1'
-  s.dependency 'RxSwift', '~> 5.0.1'
+  s.dependency 'RxCocoa', '~> 5.0'
+  s.dependency 'RxSwift', '~> 5.0'
   s.frameworks = 'Foundation'
 end
